@@ -110,7 +110,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const smallBlock = document.querySelector(".child_block");
   const parentBlock = document.querySelector(".parent_block");
 
-  moveBlockAround(smallBlock, parentBlock, 2); // Начинаем движение с шагом 2 пикселя
+  moveBlockAround(smallBlock, parentBlock, 2); 
 });
 
 document.addEventListener("DOMContentLoaded", function () {
