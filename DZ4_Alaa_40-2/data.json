@@ -1,0 +1,30 @@
+[
+  {
+  "name": "Anna",
+  "age": 18,
+  "married": false,
+  "siblings": {
+    "sister": "Vika",
+    "brother": false
+    }
+  },
+  {
+    "name": "Igor",
+    "age": 23,
+    "married": true,
+    "siblings": {
+      "sister": "Yana",
+      "brother": "Ivan"
+    }
+  },
+  {
+    "name": "Urmat",
+    "age": 53,
+    "married": true,
+    "siblings": {
+      "sister": false,
+      "brother": "Adilet"
+    }
+  }
+
+]
